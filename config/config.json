@@ -1,0 +1,7 @@
+{
+"type": "index",
+"languages": ["Portuguese"],
+"regions": ["Portugal"],
+"interval": "Monthly",
+"search_text": "wc>99 AND wc<2000 AND ((ns=gclimt OR dióxido de carbono OR redução NEAR4 emissões OR taxa carbono OR efeito estufa OR CO2 OR aquecimento global OR alteraç* climática* OR energia verde OR energi* renováv* OR energia eólica OR energia solar OR pain* solar*) AND (parlamento OR assembleia da republica OR govern* OR ministério das finanças OR fundo ambiental OR comissão europeia OR agência portuguesa do ambiente or défice or orçament* or (o or de or do or um or por or este or esse or aquele) w/1 imposto$1 or legisla* OR regula* OR burocracia* or lei or leis) AND (incert* OR instabil* OR indefini* OR indecis* OR imprev?si* OR insegur* OR risco$1)) NOT ns=(nsum OR ncdig OR ncal OR nran OR nrmf OR nnam OR niex OR nedc OR nhoc OR npdn OR nrgn OR nhrd OR nlet OR namt OR npan OR nobt OR nitv OR niex OR nhrd)"
+}

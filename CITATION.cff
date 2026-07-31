@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this index or dataset, please cite the companion paper below."
+title: "A Climate Policy Uncertainty (CPU) Index for Portugal"
+abstract: >-
+  A search-based Climate Policy Uncertainty (CPU) index for Portugal,
+  constructed following Baker, Bloom, and Davis (2016) and Gavriilidis (2021) by
+  measuring the frequency of news articles jointly referencing climate and clean
+  energy, the policy-making process, and uncertainty.
+type: dataset
+authors:
+  - family-names: "Morão"
+    given-names: "Hugo"
+license: CC-BY-4.0
+keywords:
+  - climate policy uncertainty
+  - CPU
+  - Portugal
+  - macroeconomics
+  - text mining
+preferred-citation:
+  type: article
+  title: "The macroeconomic effects of climate policy uncertainty: Evidence from Portugal"
+  authors:
+    - family-names: "Morão"
+      given-names: "Hugo"
+  journal: "The Journal of Economic Asymmetries"
+  volume: 32
+  year: 2025
+  month: 11
+  article-number: "e00426"
+  issn: "1703-4949"
+  doi: "10.1016/j.jeca.2025.e00426"
+  url: "https://doi.org/10.1016/j.jeca.2025.e00426"
